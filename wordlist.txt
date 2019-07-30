@@ -1,0 +1,598 @@
+// Note: Text that comes after "//" is ignored, which allows you to write notes (like the one you're reading now!)
+// fork by @SummersIsle1, originally by @ne0liberal
+output
+	Yesterday, I announced that, as president, I'll establish {a} [policy] program for [who] who open {a} [action] that operates for {2-20} [period] in [place].
+	
+policy
+	student loan debt forgiveness
+	$15.01/hr minimum wage
+	free college lottery
+	Medicare for like {5-15} people
+	prison reform
+	policing reform
+	space
+	jobs guarantee
+	unemployment expansion
+	corporate tax rebate
+	offshore tax shelter
+	anti-hate speech
+	gay adoption
+	right to privacy
+	no state surveillance
+	foreign legion
+	free trade
+	free weed lmao
+	free garfield porn
+	charter schools
+	abstinence only sex education
+	homeschooling
+	climate change
+	renewable energy
+	nuclear energy
+	new NATO
+	cum for all
+	tort reform
+	faith based initiative
+	school prayer
+	GMO
+	high speed rail
+	congestion tax on cars
+	net neutrality
+	stem cell research
+	{means-tested|universal} healthcare
+	athletics
+	diversity initiative
+	free speech at college
+	free cum on twitter
+	free speech on YouTube
+	baby bond
+	Social Security
+	national service
+	prison abolition
+	Fortnite dance
+	medication cost reduction
+	zoning deregulation
+	rent control
+	carbon pricing
+	death to all moids
+	carbon tax dividend
+	cum and trade
+	Mars rover
+	foreign exchange
+	Green New Deal
+	Medicaid expansion
+	study abroad
+	community banking
+	immigration reform
+	basic income
+	negative income tax
+	big pharma regulation
+	military expansion
+	border crossing
+	work visa
+	counterterrorism
+	anti-racism
+	anti-discrimination
+	Civil Rights
+	{means-tested|universal} childcare
+	{means-tested|universal} pre-K
+	Cash 4 Clunkers
+	credit monitoring
+	Section 8 housing
+	public housing
+	disaster relief
+	green jobs
+	postal banking
+	public option
+	moon landing
+	school lunch
+	community policing
+	Head Start
+	White House internship
+	Earned Income Tax Credit
+	voting rights
+	early voting
+	ballot access
+	community college
+	affirmative action
+	paid sick leave
+	equal pay
+	free tax filing
+	{means-tested|universal} welfare
+	overtime pay
+	economic stimulus
+	{means-tested|universal} tariff relief
+	pension reform
+	cryptocurrency
+	campaign finance
+	renewable energy
+	public transit
+	overseas volunteer
+	Dept of {Housing|Defense|Energy|Education|Agriculture|Commerce|Housing|Health|Justice|Treasury|Transportation} grant
+	State Department Grant
+	opioid reduction
+	disability access
+	TSA precheck
+	comprehensive sex ed
+	priority airline boarding
+	inequality reduction
+	upward mobility
+	payday loan forgiveness
+	learn-to-code
+	{means-tested|universal} dental care
+	moving expenses
+	school improvement
+	Common Core
+	anti-Dark Money
+	Medicare buy-in
+	high speed internet
+	single-payer health
+	Ban the Box
+	health insurance subsidy
+	drug decriminalization
+	401k match
+	
+who
+	Pell Grant recipients
+	people of color
+	wonks
+	neoliberals
+	Trump voters
+	former {Beto|Warren|Yang|Biden|Booker|Bernie} staffers
+	think tank workers
+	the white working class
+	underprivileged groups 
+	minorities
+	Muslims
+	Christians
+	Buddhists
+	Hindus
+	Sikhs
+	Zoroastrians
+	Jains
+	Rastafarians
+	Agnostics
+	Atheists
+	my twitter followers
+	wine moms
+	Zoomers
+	African-Americans
+	Mexican-Americans
+	Asian-Americans
+	Hispanics
+	Latinos
+	Goldwater scholars
+	Rhodes scholars
+	Ivy Leaguers
+	vox.com employees
+	twitter users
+	men
+	men of color
+	women
+	women of color
+	college kids
+	seniors
+	veterans
+	veterans
+	conservatives
+	liberals
+	leftists
+	communists
+	socialists
+	AnCaps
+	social democrats
+	posadists
+	sadists
+	anti-fascists
+	Libertarians
+	elders
+	any of the 2020 hopefuls
+	Trump staffers
+	members of Congress
+	Berniebros
+	Q-Anon followers
+	NIMBYs
+	YIMBYs
+	BIMBOs
+	international spies
+	tech workers
+	AI workers
+	Paleo dieters
+	gamers
+	e-girls
+	Amazon employees
+	immigrants
+	undocumented immigrants
+	migrants
+	refugees
+	Boomer dads
+	single parents
+	single mothers
+	single fathers
+	working families
+	Tea Party voters
+	dog owners
+	cat owners
+	{Baptists|Catholics|Protestants|Evangelicals|Lutherans|Methodists|Presbyterians|Pentecostals|Mormons}
+	union members
+	non-union members
+	healthcare workers
+	high school seniors
+	social workers
+	federal prosecutors
+	police unions
+	Juggalos
+	homeless people
+	HBO subscribers
+	{GQ|Cigar Afficionado|Us Weekly|Time|Sports Illustrated|Economist} readers
+	college professors
+	economists
+	conspiracy theorists
+	Puerto Ricans
+	truck drivers
+	Bay Area renters
+	home owners
+	{NFL|NBA|NHL|WNBA|MLS|USWNT} fans
+	First Responders
+	farmers
+	Facebook Boomers
+	public servants
+	government employees
+	vegans
+	freegans
+	vegetarians
+	firefighters
+	season ticket holders
+	Super Bowl attendees
+	bounty hunters
+	games journalists
+	video game creators
+	Patreon subscribers
+	Youtubers
+	senior citizens
+	podcasters
+	parenting bloggers
+	bloggers
+	middle class workers
+	poor families
+	millennials
+	Gen X-ers
+	those on disability
+	those over the age of {18-75}
+	those between the ages of {18-40} and {41-75}
+	deployed soldiers
+	bitcoin miners
+	healthcare workers
+	monster truck rally fans
+	computer hackers
+	cum farmers
+	MLM victims
+	Marxism-Leninism-Maoism Victims
+	housing developers
+	police unions
+	organ donors
+	
+action
+	business
+	taco truck
+	concierge
+	timeshare
+	valet
+	food truck
+	BBQ joint
+	yoga studio
+	consultancy
+	grocery store
+	dry cleaners
+	college
+	university
+	metro station
+	clothing store
+	rave party
+	cafeteria
+	law firm
+	local newspaper
+	TV station
+	cell phone tower
+	spin class
+	spy agency
+	casino
+	aquarium
+	school
+	gym
+	Wendy's
+	Capital One Bank
+	Equifax
+	car garage
+	realty
+	salon
+	restaurant
+	coal mine
+	wing joint
+	donut shop
+	Waffle House
+	7-Eleven
+	Pizza Hut
+	hotel
+	buffet
+	rideshare
+	Airbnb
+	Gold's Gym
+	gas station
+	hospital
+	clinic
+	library
+	police dept.
+	fire dept.
+	dog park
+	park
+	cafe
+	bus stop
+	deli
+	farm
+	drugstore
+	jail
+	museum
+	nightclub
+	temple
+	theater
+	farmer's market
+	zoo
+	toy store
+	commune
+	website
+	{Subway|subway}
+	Carl's Jr.
+	Starbucks
+	Burger King
+	Taco Bell
+	Denny's
+	Chili's
+	Five Guys
+	Jamba Juice
+	science fair
+	art show
+	Arby's
+	pet store
+	airport
+	Pizza Boli's
+	Manginos
+	taxi service
+	soup kitchen
+	Ben's Chili Bowl
+	charity
+	lottery
+	vape shop
+	Crossfit
+	daycare
+	pop-up shop
+	nail salon
+	disguise shop
+	circus
+	wig store
+	cantina
+	trade show
+	tech startup
+	app store
+	ponzi scheme
+	picket line
+	antique shop
+	Olive Garden
+	race track
+	tourism board
+	arcade
+	dive bar
+	pool hall
+	haunted house
+	ferris wheel
+	lemonade stand
+	magic show
+	concert hall
+	hot dog cart
+	halal food truck
+	PC cafe
+	airline
+	comedy club
+	dance hall
+	jazz club
+	fortune teller tent
+	water slide
+	bumper cars
+	mechanical bull ride
+	bungee jump
+	roller coaster
+	teacup ride
+	merry-go-round
+	skee ball game
+	dunk tank
+	house of mirrors
+	corn maze
+	hayride
+	sleigh ride
+	streetcar
+	escape room
+	5k {bike|road} race
+	tilt-a-whirl
+	bowling alley
+	vending machine
+	bodega
+	Gamestop
+	Nike store
+	VR startup
+	blockchain startup
+	boiled peanut stand
+	go-kart place
+	lazy river
+	telecom
+	spa
+	sauna
+	
+period
+	days
+	weeks
+	months
+	years
+	decades
+	centuries
+	
+place
+	disadvantaged communities
+	advantaged communities
+	a think tank
+	the White House
+	the Deep South
+	the Midwest
+	a foreign country
+	the Federal Reserve
+	red districts
+	blue districts
+	purple districts
+	New England
+	Texas
+	the southern border
+	the northern border
+	flyover country
+	the eastern seaboard
+	the west coast
+	the Great Lakes
+	Mount Rushmore
+	the Deep State
+	front of Soros's house
+	the Grand Canyon
+	a red state
+	a blue state
+	a purple state
+	Comet Ping-Pong
+	Trump Tower
+	Mar-a-Lago
+	a golf course
+	an amusement park
+	Disney World
+	Chicago
+	the {NSA|CIA|FBI|Pentagon} parking lot
+	a parking garage
+	an abandoned building
+	a disaster zone
+	a nuclear fallout area
+	our national parks
+	Silicon Valley
+	a Wall Street alleyway
+	their local {brewpub|microbrewery}
+	the set of a major movie
+	a monastery
+	the parking lot of {a bank|Wells Fargo|Citigroup|JP Morgan}
+	a refugee camp
+	a local community center
+	a public park
+	their own homes
+	their communities
+	an undisclosed location
+	a sewer
+	{Elon Musk's|Mark Cuban's|Jack Dorsey's|Zuckerberg's|Jeff Bezos's} next company
+	an abandoned castle
+	their neighborhood
+	their school district
+	a reservation
+	protected lands
+	the swamplands
+	the side of a mountain
+	California
+	Florida
+	a retirement community
+	a college town
+	a company town
+	upstate New York
+	a food festival
+	a renaissance festival
+	the {DNC|RNC}
+	a clock tower
+	an office park
+	a resort town
+	the Bible Belt
+	Appalachia
+	the Tri-state area
+	the {Pacific|Mountain|Central|Eastern} time zone
+	a US territory
+	Tornado Alley
+	the Ozarks
+	the Great Basin
+	the Mississippi Delta
+	the Rust Belt
+	the Sun Belt
+	their backyard
+	a fishing village
+	a community garden
+	a military base
+	a missile base
+	an aircraft carrier
+	Los Angeles
+	San Francisco
+	Orlando
+	Boston
+	San Diego
+	Atlanta
+	Miami
+	a national monument
+	an inner city
+	the suburbs
+	a doomsday bunker
+	a film festival
+	a tent city
+	an undeveloped area
+	the airport lounge
+	a major intersection
+	a skyscraper
+	the Space Station
+	the 405
+	Greenwich Village
+	the Upper {East|West} Side
+	the Google App Store
+	iTunes
+	a border town
+	and along coastal areas
+	a {chemistry|biology|physics} lab
+	a major research center
+	Bourbon Street
+	municipal swimming pools
+	migrant populations
+	a moon base
+	a fallout shelter
+	sacred lands
+	the woods somewhere
+	an oil field
+	Long Island
+	the Bronx
+	a Fifth Avenue parking space
+	and along the Potomac River
+	a cruise ship
+	a border detention facility
+	gentrified communities
+	Belarus
+	Ukraine
+	Greece
+	Turkey
+	Armenia
+	my home
+	communities of color
+	Area 51
+	the ditch of the interstate
+	front of the baggage claim
+	front of the mall fountain
+	front of the Statue of Liberty
+	the Heartland
+	
+// Tips:
+//  - Change the "Your Generator's Title" header by editing the text in the bottom-right box.
+//  - You can change the URL of your generator by clicking the "settings" button in the top-right
+//  - Here are some generators you might like to import: perchance.org/useful-generators
+//  - Use this template if you want your generator to be vertically centered on the page: perchance.org/centered-minimal#edit
+//  - Add background images, silly music, fonts, and other stuff with plugins: perchance.org/plugins
+//  - Here are some templates that you can use to create nice-looking generators without learning HTML and CSS: perchance.org/templates
+//  - Use the "layout maker" plugin to create complex layouts without learning how to code: perchance.org/layout-maker-plugin
+//  - Highlight multiple lines and press Tab or Shift+Tab to indent and un-indent them all an once
+//  - Ask our friendly community members if you need help: reddit.com/r/perchance
+// \( ﾟヮﾟ)/
+
+
+
+
